@@ -1,4 +1,4 @@
-# Leap-Year-Program-in-C-
+# Leap-Year-Program-in-CPP-
 
 
 Hi, with the help of this C++ program you can determine if any Year is a Leap Year or not.
